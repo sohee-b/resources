@@ -7,5 +7,5 @@
 - [makeappicon](https://makeappicon.com/)
 
 ## ✌🏻 UI 
-### buttons
+### Buttons
 - [Squish Button](https://github.com/BalestraPatrick/SquishButton)
