@@ -10,5 +10,8 @@
 ### Buttons
 - [Squish Button](https://github.com/BalestraPatrick/SquishButton)
 
+### Labels
+- [Glitch Label](https://github.com/kciter/GlitchLabel)
+
 ### Transitions
 - [Hero](https://github.com/HeroTransitions/Hero)
