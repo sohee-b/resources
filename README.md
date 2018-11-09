@@ -5,6 +5,7 @@
 - [mac cursors as svg images](https://github.com/daviddarnes/mac-cursors)
 - [svg-to-png](https://ezgif.com/svg-to-png)
 - [makeappicon](https://makeappicon.com/)
+- [gitignore.io](https://gitignore.io)
 
 ## ✌🏻 UI 
 ### Buttons
