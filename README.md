@@ -7,6 +7,7 @@
 - [makeappicon](https://makeappicon.com/)
 - [gitignore.io](https://gitignore.io)
 - [list of apple mobile machine ids](https://gist.github.com/adamawolf/3048717#file-apple_mobile_device_types-txt-L32)
+- [regex](https://regexr.com/)
 
 ## ✌🏻 UI 
 ### Buttons
