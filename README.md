@@ -8,13 +8,13 @@
 > [regex](https://regexr.com/)  
 
 ### UI Frameworks
-#### Buttons
+> #### Buttons
 > [Squish Button](https://github.com/BalestraPatrick/SquishButton)
 
-#### Labels
+> #### Labels
 > [Glitch Label](https://github.com/kciter/GlitchLabel)
 
-#### Transitions
+> #### Transitions
 > [Hero](https://github.com/HeroTransitions/Hero)
 
 ## ✌🏻 Design 
