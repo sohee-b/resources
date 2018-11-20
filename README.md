@@ -1,4 +1,4 @@
-# Resources for iOS Projects
+![resources](https://user-images.githubusercontent.com/35065894/48777486-042e3280-ed16-11e8-9c61-a1844aaeaa5a.png)
 
 ## ☝🏻 Project
 ### General
@@ -7,7 +7,7 @@
 > [list of apple mobile machine ids](https://gist.github.com/adamawolf/3048717#file-apple_mobile_device_types-txt-L32)  
 > [regex](https://regexr.com/)  
 
-### UI Frameworks
+### Frameworks & Libraries
 > #### Buttons
 > [Squish Button](https://github.com/BalestraPatrick/SquishButton)
 
