@@ -9,6 +9,7 @@
 
 ### Maintenance
 > [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)
+> [SwiftLint](https://github.com/realm/SwiftLint)
 
 ### Frameworks & Libraries
 > #### Buttons
