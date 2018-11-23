@@ -8,7 +8,7 @@
 > [regex](https://regexr.com/)  
 
 ### Maintenance
-> [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)
+> [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)   
 > [SwiftLint](https://github.com/realm/SwiftLint)
 
 ### Frameworks & Libraries
