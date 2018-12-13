@@ -14,7 +14,7 @@
 
 ### Frameworks & Libraries
 > #### Curations
-> - https://github.com/Ramotion/swift-ui-animation-components-and-libraries
+> [Swift UI Animation Components and Libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)
 > #### Buttons
 > [Squish Button](https://github.com/BalestraPatrick/SquishButton)
 > #### Labels
