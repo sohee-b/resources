@@ -13,6 +13,8 @@
 > [SwiftLint](https://github.com/realm/SwiftLint)
 
 ### Frameworks & Libraries
+> #### Curations
+> - https://github.com/Ramotion/swift-ui-animation-components-and-libraries
 > #### Buttons
 > [Squish Button](https://github.com/BalestraPatrick/SquishButton)
 > #### Labels
