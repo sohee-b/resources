@@ -17,10 +17,10 @@
 > #### Curations
 > [Swift UI Animation Components and Libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)
 > #### UI
-> [Squish Button](https://github.com/BalestraPatrick/SquishButton)
-> [Glitch Label](https://github.com/kciter/GlitchLabel)
-> [SPPermission](https://github.com/IvanVorobei/SPPermission)
-> [Hero](https://github.com/HeroTransitions/Hero)
+> [Squish Button](https://github.com/BalestraPatrick/SquishButton)  
+> [Glitch Label](https://github.com/kciter/GlitchLabel)  
+> [SPPermission](https://github.com/IvanVorobei/SPPermission)  
+> [Hero](https://github.com/HeroTransitions/Hero)  
 > #### Non-UI
 > [Siren](https://github.com/ArtSabintsev/Siren)
 
