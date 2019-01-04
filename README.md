@@ -7,7 +7,8 @@
 > [apple mobile machine ids](https://gist.github.com/adamawolf/3048717#file-apple_mobile_device_types-txt-L32)  
 > [regex](https://regexr.com/)  
 > [carbon.now.sh](https://carbon.now.sh)  
-> [public apis](https://github.com/abhishekbanthia/Public-APIs)
+> [public apis](https://github.com/abhishekbanthia/Public-APIs)  
+> [swift evolution](https://apple.github.io/swift-evolution/)  
 
 ### Maintenance
 > [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)   
