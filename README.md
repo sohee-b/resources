@@ -9,6 +9,7 @@
 > [carbon.now.sh](https://carbon.now.sh)  
 > [public apis](https://github.com/abhishekbanthia/Public-APIs)  
 > [swift evolution](https://apple.github.io/swift-evolution/)  
+> [appsight.io](https://www.appsight.io/)  
 
 ### Maintenance
 > [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)   
