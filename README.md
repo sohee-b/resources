@@ -32,3 +32,6 @@
 > [makeappicon](https://makeappicon.com/)  
 > [picular.io](https://picular.co)  
 > [eva-icons](https://github.com/akveo/eva-icons)
+
+## FYI
+> [UIView Content Mode](https://stackoverflow.com/questions/4895272/difference-between-uiviewcontentmodescaleaspectfit-and-uiviewcontentmodescaletof)
