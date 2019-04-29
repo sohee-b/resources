@@ -35,3 +35,4 @@
 
 ## FYI
 > [UIView Content Mode](https://stackoverflow.com/questions/4895272/difference-between-uiviewcontentmodescaleaspectfit-and-uiviewcontentmodescaletof)
+> [Trending Swift Repositories](https://github.com/trending/swift?since=monthly)
