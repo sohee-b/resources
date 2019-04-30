@@ -24,7 +24,8 @@
 > [SPPermission](https://github.com/IvanVorobei/SPPermission)  
 > [Hero](https://github.com/HeroTransitions/Hero)  
 > #### Non-UI
-> [Siren](https://github.com/ArtSabintsev/Siren)
+> [Siren](https://github.com/ArtSabintsev/Siren)  
+> [Solar](https://github.com/ceeK/Solar)
 
 ## ✌🏻 Design 
 > [mac cursors as svg images](https://github.com/daviddarnes/mac-cursors)  
