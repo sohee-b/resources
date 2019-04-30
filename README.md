@@ -10,6 +10,7 @@
 > [public apis](https://github.com/abhishekbanthia/Public-APIs)  
 > [swift evolution](https://apple.github.io/swift-evolution/)  
 > [appsight.io](https://www.appsight.io/)  
+> [jazzy](https://github.com/realm/jazzy)  
 
 ### Maintenance
 > [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)   
