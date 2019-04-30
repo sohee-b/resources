@@ -23,7 +23,8 @@
 > [Squish Button](https://github.com/BalestraPatrick/SquishButton)  
 > [Glitch Label](https://github.com/kciter/GlitchLabel)  
 > [SPPermission](https://github.com/IvanVorobei/SPPermission)  
-> [Hero](https://github.com/HeroTransitions/Hero)  
+> [Hero](https://github.com/HeroTransitions/Hero)   
+> [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch)  
 > #### Non-UI
 > [Siren](https://github.com/ArtSabintsev/Siren)  
 > [Solar](https://github.com/ceeK/Solar)
