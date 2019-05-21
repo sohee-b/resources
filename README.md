@@ -14,7 +14,7 @@
 
 ### Maintenance
 > [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)   
-> [SwiftLint](https://github.com/realm/SwiftLint)
+> [SwiftLint](https://github.com/realm/SwiftLint)  
 > [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)  
 
 ### Frameworks & Libraries
