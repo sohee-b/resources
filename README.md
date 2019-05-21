@@ -11,6 +11,7 @@
 > [swift evolution](https://apple.github.io/swift-evolution/)  
 > [appsight.io](https://www.appsight.io/)  
 > [jazzy](https://github.com/realm/jazzy)  
+> [git tips](https://github.com/mingrammer/git-tips/blob/master/README.md)  
 
 ### Maintenance
 > [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)   
