@@ -36,7 +36,8 @@
 > [svg-to-png](https://ezgif.com/svg-to-png)  
 > [makeappicon](https://makeappicon.com/)  
 > [picular.io](https://picular.co)  
-> [eva-icons](https://github.com/akveo/eva-icons)
+> [eva-icons](https://github.com/akveo/eva-icons)  
+> [laws of ux](https://lawsofux.com/)  
 
 ## FYI
 > [UIView Content Mode](https://stackoverflow.com/questions/4895272/difference-between-uiviewcontentmodescaleaspectfit-and-uiviewcontentmodescaletof)  
