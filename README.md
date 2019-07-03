@@ -41,4 +41,5 @@
 
 ## FYI
 > [UIView Content Mode](https://stackoverflow.com/questions/4895272/difference-between-uiviewcontentmodescaleaspectfit-and-uiviewcontentmodescaletof)  
-> [Trending Swift Repositories](https://github.com/trending/swift?since=monthly)
+> [Trending Swift Repositories](https://github.com/trending/swift?since=monthly)  
+> [How to text search through all .xib in project](https://stackoverflow.com/questions/3963378/text-search-though-all-xib-files-in-xcode)
