@@ -12,6 +12,7 @@
 > [appsight.io](https://www.appsight.io/)  
 > [jazzy](https://github.com/realm/jazzy)  
 > [git tips](https://github.com/mingrammer/git-tips/blob/master/README.md)  
+> [swiftplate](https://github.com/JohnSundell/SwiftPlate)  
 
 ### Maintenance
 > [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)   
