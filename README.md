@@ -18,6 +18,7 @@
 > [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)   
 > [SwiftLint](https://github.com/realm/SwiftLint)  
 > [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)  
+> [Periphery](https://github.com/peripheryapp/periphery) . 
 
 ### Frameworks & Libraries
 > #### Curations
