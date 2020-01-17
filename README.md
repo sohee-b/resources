@@ -31,7 +31,8 @@
 > [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch)  
 > #### Non-UI
 > [Siren](https://github.com/ArtSabintsev/Siren)  
-> [Solar](https://github.com/ceeK/Solar)
+> [Solar](https://github.com/ceeK/Solar)  
+> [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)
 
 ## ✌🏻 Design 
 > [mac cursors as svg images](https://github.com/daviddarnes/mac-cursors)  
