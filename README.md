@@ -29,10 +29,10 @@
 > [SPPermission](https://github.com/IvanVorobei/SPPermission)  
 > [Hero](https://github.com/HeroTransitions/Hero)   
 > [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch)  
+> [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)  
 > #### Non-UI
 > [Siren](https://github.com/ArtSabintsev/Siren)  
 > [Solar](https://github.com/ceeK/Solar)  
-> [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)
 
 ## ✌🏻 Design 
 > [mac cursors as svg images](https://github.com/daviddarnes/mac-cursors)  
